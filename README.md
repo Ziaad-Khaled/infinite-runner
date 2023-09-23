@@ -8,6 +8,13 @@ Gameplay Overview
 
 The player controls a sphere that automatically moves forward on an infinite floor divided into three lanes. The objective is to dodge obstacles while managing both ability and health points to avoid losing the game. Collectibles can be found along the road, increasing the player's resources, while obstacles decrease the player's health points. The goal is to achieve the highest score possible before losing all health points.
 
+## Game Preview
+
+
+https://github.com/Ziaad-Khaled/infinite-runner/assets/77291238/c9351be7-1afc-45ef-a7ad-3c7e62d3c7b5
+
+
+
 ## Rules of Play
 
 - The player views the game from a third-person perspective behind the sphere.
