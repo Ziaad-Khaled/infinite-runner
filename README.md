@@ -1,5 +1,4 @@
 # Infinite Runner
-This project is a mini-game developed as part of the Advanced Computer Lab Winter 2022 course at the German University in Cairo, Faculty of Media Engineering and Technology.
 
 ## Project Objective
 
